@@ -7,6 +7,7 @@
 
 للحفظ والتشغيل (Animated Buttons) وتم عمل
 
-
 :شكل التصميم
+
+
 ![image](https://user-images.githubusercontent.com/85777087/123906287-8c6c1e00-d97c-11eb-9dcf-38848e0858f5.png)

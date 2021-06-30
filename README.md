@@ -1,1 +1,0 @@
-# Industrials_Robot_Arm_HTML
